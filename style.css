@@ -1,0 +1,20 @@
+.smaller-image {
+	width: 500px;
+}
+
+article {
+	max-width: 600px;
+	min-width: 400px;
+
+	font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+	font-family: 'Amaranth', sans-serif;
+}
+body {
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	text-align: center;
+}
